@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Aafreen%20Zehra&fontSize=90" />
 <h1 align="center">Hi You 👋, I'm Aafreen Zehra</h1>
 <h3 align="center">Love Python, Django & AI/ML — crafting projects that solve problems.</h3>
 
